@@ -106,7 +106,10 @@ const config: HardhatUserConfig = {
     ],
   },
   dependencyCompiler: {
-    paths: [],
+    paths: [
+      '@openzeppelin/contracts/proxy/transparent/ProxyAdmin.sol',
+      '@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol',
+    ],
   },
   namedAccounts: {
     deployer: 0,
