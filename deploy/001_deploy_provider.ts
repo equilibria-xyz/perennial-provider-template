@@ -46,6 +46,9 @@ const func: DeployFunction = async function (hre: HardhatRuntimeEnvironment) {
     }
   ])
 
+  console.log(`using owner address: ${OWNER_ADDRESS}`)
+  console.log(`using oracle address: ${ORACLE_ADDRESS}`)
+
   /**
    * Provider Deployment Logic
    */
