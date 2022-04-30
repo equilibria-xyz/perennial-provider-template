@@ -84,6 +84,21 @@
   resolved "https://registry.yarnpkg.com/@ensdomains/resolver/-/resolver-0.2.4.tgz#c10fe28bf5efbf49bff4666d909aed0265efbc89"
   integrity sha512-bvaTH34PMCbv6anRa9I/0zjLJgY4EuznbEMgbV77JBCQ9KNC46rzi0avuxpOfu+xDjPEtSFGqVEOr5GlUSGudA==
 
+"@equilibria/perennial-provider@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@equilibria/perennial-provider/-/perennial-provider-0.1.2.tgz#95077500a62a8a9d3f2f55ba3e20546b4f0b8312"
+  integrity sha512-dxosFmLueBnR6dyBvUVELxDmoj3R3BgdZFmt0Dp2bDhrMeDB21MUfFbFyMfBturvOkZKux0337jA08mNjnLXmQ==
+
+"@equilibria/perennial@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@equilibria/perennial/-/perennial-0.1.2.tgz#314519797c6c84abafd091f3d1488efd8cd44033"
+  integrity sha512-oUlZWSEoCH6QifWfWYPF/zK96Kj574RQyQMtoj8PsD7eo/vcHiXh0K2jXXHnHk6iCVvdblZKN5mezYXqFmp2HQ==
+
+"@equilibria/root@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@equilibria/root/-/root-0.1.2.tgz#b9b7c710835c2c2f66bcbaf2fa369b401815157a"
+  integrity sha512-yylWcNDh5XWnjZnCwU4CNgQL7LM5/niIQQUxCu96KQokSt93UpNnP5vzN5hRvMhob2cGK67wIlIKp5USyjLfJA==
+
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.3.tgz#9e42981ef035beb3dd49add17acb96e8ff6f394c"
@@ -1181,10 +1196,10 @@
     "@types/sinon-chai" "^3.2.3"
     "@types/web3" "1.0.19"
 
-"@openzeppelin/contracts@^4.2.0":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.3.1.tgz#c01f791ce6c9d3989ac1a643267501dbe336b9e3"
-  integrity sha512-QjgbPPlmDK2clK1hzjw2ROfY8KA5q+PfhDUUxZFEBCZP9fi6d5FuNoh/Uq0oCTMEKPmue69vhX2jcl0N/tFKGw==
+"@openzeppelin/contracts@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.5.0.tgz#3fd75d57de172b3743cdfc1206883f56430409cc"
+  integrity sha512-fdkzKPYMjrRiPK6K4y64e6GzULR7R7RwxSigHS8DDp7aWDeoReqsQI+cxHV1UuhAqX69L1lAaWDxenfP+xiqzA==
 
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"

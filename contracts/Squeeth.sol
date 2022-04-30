@@ -21,7 +21,7 @@ contract Squeeth is UJumpRateUtilizationCurveProvider, XOracleProvider, UProduct
         UFixed18 takerFee_,
         UFixed18 makerLimit_,
         JumpRateUtilizationCurve memory utilizationCurve_
-    ) external initializer {
+    ) external initializer(1) {
         __UOwnable__initialize();
         __UProductProvider__initialize(maintenance_, fundingFee_, makerFee_, takerFee_, makerLimit_);
         __UJumpRateUtilizationCurveProvider__initialize(utilizationCurve_);
