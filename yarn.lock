@@ -1325,10 +1325,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@solidity-parser/parser@0.14.0", "@solidity-parser/parser@^0.11.0", "@solidity-parser/parser@^0.12.0", "@solidity-parser/parser@^0.13.2":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.14.0.tgz#d51f074efb0acce0e953ec48133561ed710cebc0"
-  integrity sha512-cX0JJRcmPtNUJpzD2K7FdA7qQsTOk1UZnFx2k7qAg9ZRvuaH5NBe5IEdBMXGlmf2+FmjhqbygJ26H8l2SV7aKQ==
+"@solidity-parser/parser@^0.11.0", "@solidity-parser/parser@^0.12.0", "@solidity-parser/parser@^0.13.2", "@solidity-parser/parser@^0.14.2-beta.1":
+  version "0.14.2-beta.1"
+  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.14.2-beta.1.tgz#114dc7ff21b913b5eaf80a85123a77a5d53e22e1"
+  integrity sha512-UU/LD1nG4XjZ4D9FxpjHeG5/i5MXc3CwJHIvLRI90sn+Ij9cGSyq9sBnSLGAubyhYULnH4/lB3pcbkXB9iO3MA==
   dependencies:
     antlr4ts "^0.5.0-alpha.4"
 
