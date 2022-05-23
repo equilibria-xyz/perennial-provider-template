@@ -26,9 +26,9 @@
   "devDependencies": {
     "@codechecks/client": "^0.1.10",
     "@defi-wonderland/smock": "^2.0.7",
-    "@equilibria/root": "0.1.2",
-    "@equilibria/perennial": "0.1.2",
-    "@equilibria/perennial-provider": "0.1.2",
+    "@equilibria/root": "0.1.4",
+    "@equilibria/perennial": "0.1.4",
+    "@equilibria/perennial-provider": "0.1.4",
     "@ethersproject/abi": "^5.3.1",
     "@ethersproject/bytes": "^5.0.0",
     "@ethersproject/providers": "^5.3.1",

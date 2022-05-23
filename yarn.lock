@@ -84,20 +84,20 @@
   resolved "https://registry.yarnpkg.com/@ensdomains/resolver/-/resolver-0.2.4.tgz#c10fe28bf5efbf49bff4666d909aed0265efbc89"
   integrity sha512-bvaTH34PMCbv6anRa9I/0zjLJgY4EuznbEMgbV77JBCQ9KNC46rzi0avuxpOfu+xDjPEtSFGqVEOr5GlUSGudA==
 
-"@equilibria/perennial-provider@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@equilibria/perennial-provider/-/perennial-provider-0.1.2.tgz#95077500a62a8a9d3f2f55ba3e20546b4f0b8312"
-  integrity sha512-dxosFmLueBnR6dyBvUVELxDmoj3R3BgdZFmt0Dp2bDhrMeDB21MUfFbFyMfBturvOkZKux0337jA08mNjnLXmQ==
+"@equilibria/perennial-provider@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@equilibria/perennial-provider/-/perennial-provider-0.1.4.tgz#d322c90fb7c31b5a51576c9f0be37778e9050759"
+  integrity sha512-p3Yyn1VGEOd09vmdeTCUrj4qKZU6g60UwmOzaMBxa7u3Yh78dxdbmoP5R6Y1h6etJ7NVxmSPYGi+CHvBgBw85Q==
 
-"@equilibria/perennial@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@equilibria/perennial/-/perennial-0.1.2.tgz#314519797c6c84abafd091f3d1488efd8cd44033"
-  integrity sha512-oUlZWSEoCH6QifWfWYPF/zK96Kj574RQyQMtoj8PsD7eo/vcHiXh0K2jXXHnHk6iCVvdblZKN5mezYXqFmp2HQ==
+"@equilibria/perennial@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@equilibria/perennial/-/perennial-0.1.4.tgz#11ae544a2b08e9d55eebd079cef03357b4b51935"
+  integrity sha512-SPAD+SGe6J45s+HetrSscfn8gpuOofMT2ubSk87q9MVBjmHB6ddJS4oQU06Ef/2SmVuBjCIgxbvE6f2Pj9e9bg==
 
-"@equilibria/root@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@equilibria/root/-/root-0.1.2.tgz#b9b7c710835c2c2f66bcbaf2fa369b401815157a"
-  integrity sha512-yylWcNDh5XWnjZnCwU4CNgQL7LM5/niIQQUxCu96KQokSt93UpNnP5vzN5hRvMhob2cGK67wIlIKp5USyjLfJA==
+"@equilibria/root@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@equilibria/root/-/root-0.1.4.tgz#17cfa16b5fce66a9e83a4074790acaf22b5b5148"
+  integrity sha512-vMcf00XF6wvm0sqeksQL1MiuzvhijvOnibG5Gx9dDmXNh0F27W0kpvnxm6GonuN7dxcACiKWmmI1dL+AZ++8Fw==
 
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
